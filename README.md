@@ -39,8 +39,8 @@ To overcome this, they are expanding their data analytics team and designed this
 Here's how I tackled this challenge step by step:
 - 📄 **Understanding Business Needs** – I reviewed the 10 ad-hoc business requests that required insights.
 - 🔍 **Running SQL Queries** – I used SQL to fetch relevant data from multiple tables.
-- 📊 **Creating a Management Dashboard** – I transformed raw data into clear, actionable insights for executives.
-- 🎥 **Presenting Findings Creatively** – I designed an engaging presentation, incorporating charts, visuals, and storytelling for impact.
+- 📊 **Creating a Management Dashboard** – I transformed raw data into clear, actionable insights using PowerBI for executives.
+- 🎥 **Presenting Findings Creatively** – I designed an engaging presentation, incorporating charts, visuals, and storytelling using Canva for impact.
 
 ## 📂 Dataset Details
 

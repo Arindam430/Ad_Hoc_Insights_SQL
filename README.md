@@ -5,13 +5,34 @@ This project is part of the Codebasics Monthly Resume Challenge #4, where I anal
 📌 [Challenge Link](https://codebasics.io/challenge/codebasics-resume-project-challenge/7)   
 🔗 [LinkedIn Post]()
 
+## 🏢 Company Overview: AtliQ Hardware
+
+AtliQ Hardware (an imaginary company) is a leading manufacturer of computer hardware and accessories, operating across four major regions:
+
+### 🌍 Global Presence:
+
+- 🌎 **North America (NA)**
+- 🌍 **Latin America (LATAM)**
+- 🏰 **Europe (EU)**
+- 🌏 **Asia-Pacific (APAC)**
+
+### 🖥️ Core Business Divisions:
+
+- 🔗 **Networking & Storage** (Routers, Switches, External Drives)
+- 💻 **PCs** (Laptops, Desktops, Workstations)
+- 🎧 **Peripherals & Accessories** (Keyboards, Mice, Monitors, Headsets)
+
 ## 📝 Problem Statement
 
-In this challenge, I stepped into the role of a **junior data analyst** for **Atliq Hardwares** (an imaginary company). Atliq is a leading computer hardware manufacturer in India, but their management struggles with data-driven decision-making due to a lack of clear insights.
+In this challenge, I stepped into the role of a **junior data analyst** for **Atliq Hardwares**, a company facing challenges in data-driven decision-making due to a lack of actionable insights.
 
-To address this, they are expanding their data analytics team and have set up this challenge to evaluate candidates on their SQL expertise and business storytelling skills.
+To overcome this, they are expanding their data analytics team and designed this challenge to evaluate candidates' SQL proficiency and business storytelling skills.
 
-My goal? To analyze their **sales**, **pricing**, and **customer data**, **extract meaningful insights**, and **present them in a compelling way** for top-level management! 🚀
+### 🎯 My Role in This Challenge:
+
+- 🔍 Analyze sales, pricing, and customer data.
+- 📊 Extract meaningful insights to support strategic decisions.
+- 🎥 Present findings in a compelling way for top-level management.
 
 ## 🎯 My Approach
 

@@ -113,3 +113,15 @@ To enhance my analysis, I designed the following data model, integrating the dim
 <p align="center">
     <img src='https://github.com/Arindam430/Ad_Hoc_Insights_SQL/blob/main/Resources/Data%20Model.png' height="400">
 </p>
+
+## 🔍 SQL Concepts Learned
+- `WHERE` & `ORDER BY` – Used to filter records and sort data in ascending or descending order.
+- `DISTINCT` – Applied to retrieve unique values, such as counting unique products.
+- CTEs (`WITH` statements) – Used to modularize queries, improving readability and reusability.
+- `GROUP BY` & Aggregations – Summarized data by categories using `COUNT()`, `SUM()`, `AVG()`, etc.
+- `JOINs` (`INNER`, `LEFT`) – Merged tables to fetch relevant data across multiple datasets.
+- `DENSE_RANK()` & `PARTITION BY` – Ranked products within each category while maintaining ties.
+- `CASE` Statement – Applied conditional logic, such as formatting sales values dynamically.
+- `ROUND()` & Formatting – Used to calculate and display percentages, sales in millions/billions.
+- `HAVING` vs. `WHERE` – Applied `HAVING` for filtering grouped results after aggregation.
+- Subqueries & Nested Queries – Used inline queries to calculate differences and trends.

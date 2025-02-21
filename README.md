@@ -26,6 +26,7 @@ Here's how I tackled this challenge step by step:
 Before diving into the analysis, it's essential to understand the structure of the data. Here's a breakdown:
 
 ### 🔹 Dimension Tables
+
 Dimension tables contain descriptive/static data that help categorize and define the facts.
 
 #### <ins>dim_date</ins> (NEW! 🗓️)
@@ -36,7 +37,7 @@ I created this additional table to facilitate time-based analysis efficiently.
 - 📆 `quarter:` Represents the quarter corresponding to the fiscal year.
 - 🏛️ `fy_month_num:` Maps the fiscal month order (e.g., September = 1, October = 2, etc.).
 
-#### dim_customer
+#### <ins>dim_customer</ins>
 
 Contains details about customers and their market presence.
 - 🏬 `customer:` Name of the customer (e.g., Atliq Exclusive, Flipkart, Surface Stores).
@@ -46,7 +47,7 @@ Contains details about customers and their market presence.
 - 🌎 `region:` Broader classification (APAC, EU, NA, LATAM).
 - 🏢 `sub_zone:` Sub-region within a market (India, Southeast Asia, Australia & New Zealand).
 
-#### dim_product
+#### <ins>dim_product</ins>
 
 Contains product-related information.
 - 💻 `product_code:` Unique identifier for each product.
@@ -55,9 +56,10 @@ Contains product-related information.
 - 📦 `variant:` Differentiates product versions (Standard, Plus, Premium).
 
 ### 🔹 Fact Tables
+
 Fact tables contain transactional and measurable data, such as sales, pricing, and costs.
 
-#### fact_sales_monthly
+#### <ins>fact_sales_monthly</ins>
 
 Tracks monthly sales of each product.
 - 📅 `date:` The month in which the sale occurred (fiscal years 2020 & 2021).
@@ -65,19 +67,19 @@ Tracks monthly sales of each product.
 - 📦 `product_code:` Unique identifier for the sold product.
 - 📊 `sold_quantity:` Number of units sold.
 
-#### fact_gross_price
+#### <ins>fact_gross_price</ins>
 
 Holds pricing data for each product.
 - 📆 `fiscal_year:` The fiscal year for which the gross price is recorded.
 - 💰 `gross_price:` The initial selling price of a product before any deductions.
 
-#### fact_manufacturing_cost
+#### <ins>fact_manufacturing_cost</ins>
 
 Tracks production costs per product.
 - 📆 `cost_year:` Fiscal year in which the product was manufactured.
 - 🏭 `manufacturing_cost:` The total production cost incurred, including raw materials, labor, and overhead expenses.
 
-#### fact_pre_invoice_deductions
+#### <ins>fact_pre_invoice_deductions</ins>
 
 Contains discounts applied before invoicing.
 - 🛍️ `customer_code:` The customer receiving the discount.

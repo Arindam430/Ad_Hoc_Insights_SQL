@@ -28,7 +28,7 @@ Before diving into the analysis, it's essential to understand the structure of t
 ### 🔹 Dimension Tables
 Dimension tables contain descriptive/static data that help categorize and define the facts.
 
-#### dim_date (NEW! 🗓️)
+#### <ins>dim_date</ins> (NEW! 🗓️)
 
 I created this additional table to facilitate time-based analysis efficiently.
 - 📅 `date:` Covers a range of fiscal years from 2020 to 2021.

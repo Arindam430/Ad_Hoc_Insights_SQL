@@ -85,3 +85,10 @@ Contains discounts applied before invoicing.
 - 🛍️ `customer_code:` The customer receiving the discount.
 - 📅 `fiscal_year:` The fiscal year for the discount.
 - 🔻 `pre_invoice_discount_pct:` Percentage discount applied before invoice generation.
+
+## 🗂️ Data Model
+To enhance my analysis, I designed the following data model, integrating the dim_date table to link sales data with time-based insights:
+
+<p align="center">
+    <img src='https://github.com/Arindam430/Ad_Hoc_Insights_SQL/blob/main/Resources/Data%20Model.png' height="400">
+</p>

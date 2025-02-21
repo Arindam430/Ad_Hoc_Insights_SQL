@@ -167,6 +167,6 @@ To enhance my analysis, I designed the following data model, integrating the dim
 - Retail remains the strongest sales channel, showing the dominance of B2C sales.
 
 ### 🏆 Top 3 Best-Selling Products by Division (FY 2021)
-- Networking & Storage (N & S): Pen Drives dominated sales, with the AQ Pen Drive 2 IN 1 leading at 701,373 units.
-- Peripherals & Accessories (P & A): Gaming and Maxima Mouse were the top sellers.
-- PC Division: AQ Digit and AQ Velocity had significantly lower sales than other divisions.
+- **Networking & Storage (N & S)**: Pen Drives dominated sales, with the AQ Pen Drive 2 IN 1 leading at 701,373 units.
+- **Peripherals & Accessories (P & A)**: Gaming and Maxima Mouse were the top sellers.
+- **PC Division**: AQ Digit and AQ Velocity had significantly lower sales than other divisions.

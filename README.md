@@ -125,3 +125,48 @@ To enhance my analysis, I designed the following data model, integrating the dim
 - `ROUND()` & Formatting – Used to calculate and display percentages, sales in millions/billions.
 - `HAVING` vs. `WHERE` – Applied `HAVING` for filtering grouped results after aggregation.
 - Subqueries & Nested Queries – Used inline queries to calculate differences and trends.
+
+## 🔑 Key Insights from Data Visualizations
+
+### 🌍 APAC Market Performance
+- India, Bangladesh, Indonesia, and Australia are Atliq Exclusive's top APAC markets by gross sales.
+- Japan and South Korea have relatively smaller contributions.
+
+### 📊 Unique Product Growth (2021 vs. 2020)
+- Unique products increased by 36.33%, from 245 in 2020 to 334 in 2021.
+- Significant product diversification occurred, reflecting higher market demand.
+
+### 🛒 Product Segments & Trends
+- Notebooks and Accessories dominate in product count, followed by Peripherals.
+- Networking products have the lowest count, indicating a potential gap in offerings.
+- Accessories had the highest increase (34 new products), while Notebooks grew by 16 products.
+
+### 💰 Manufacturing Costs: Highest & Lowest
+- AQ HOME Allin1 Gen 2 (Personal Desktop) has the highest cost ($240.54).
+- AQ Master Wired Mouse has the lowest cost ($0.89), showing a wide cost disparity in product categories.
+
+### 🏷️ Top 5 Indian Customers by Avg. Discount (FY 2021)
+- Flipkart received the highest average discount (30.83%), followed by Viveks and Ezone.
+- Amazon received the lowest discount (29.33%), indicating varying pricing strategies across retailers.
+
+### 📈 Monthly Gross Sales Trend (2020 vs. 2021)
+- FY 2021 saw a massive growth in gross sales (224.42M vs. 79.50M in FY 2020).
+- The highest sales occurred in October 2021 (32.2M).
+- March 2020 had the lowest sales (767K), possibly due to the impact of COVID-19.
+
+### 📦 Quarterly Sales Distribution (2020)
+- Q1 had the highest total sales (33.72%), followed by Q2 (32.01%).
+- Q3 had the lowest sales (9.99%), indicating a seasonal dip in demand.
+
+### 📊 Total Sold Quantity Contribution
+- December had the highest sold quantity (15.33%), followed by November (14.69%).
+- March had the lowest sales (1.15%), which aligns with the gross sales trend.
+
+### 🛍️ Gross Sales by Channel
+- Retailers contributed the highest gross sales ($1219.1M), followed by Direct ($257.5M) and Distributors ($188.0M).
+- Retail remains the strongest sales channel, showing the dominance of B2C sales.
+
+### 🏆 Top 3 Best-Selling Products by Division (FY 2021)
+- Networking & Storage (N & S): Pen Drives dominated sales, with the AQ Pen Drive 2 IN 1 leading at 701,373 units.
+- Peripherals & Accessories (P & A): Gaming and Maxima Mouse were the top sellers.
+- PC Division: AQ Digit and AQ Velocity had significantly lower sales than other divisions.

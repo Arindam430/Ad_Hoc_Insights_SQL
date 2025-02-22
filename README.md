@@ -3,7 +3,7 @@
 This project is part of the Codebasics Monthly Resume Challenge #4, where I analyzed business data using SQL and present meaningful insights in a structured and engaging format.
 
 📌 [Challenge Link](https://codebasics.io/challenge/codebasics-resume-project-challenge/7)   
-🔗 [LinkedIn Post]()
+🔗 [LinkedIn Post](https://www.linkedin.com/posts/arindam430_ad-hoc-insights-consumer-goods-activity-7298869105007222784-XTTu?utm_source=share&utm_medium=member_desktop&rcm=ACoAADRG8UoBurHyn4s1K7AFlVHm4UCbxtPV7FQ)
 
 ## 🏢 Company Overview: AtliQ Hardware
 
